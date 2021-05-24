@@ -12,7 +12,7 @@
 | 名前 | 説明 |
 | ---- | --- |
 | [FREESERVER Texture](https://github.com/freeserverproject/texture) | GitHubでMinecraftのテクスチャを管理。Actionsでリリースするとゲーム内のほうに自動で適用されるようになっている |
-| [FREESERVER Wki](https://github.com/freeserverproject/freeserver-wiki) | Netlify+VitePressの構成でFREESERVERのWikiを管理。[Wiki](https://wiki.freeserver.pro) |
+| [FREESERVER Wiki](https://github.com/freeserverproject/freeserver-wiki) | Netlify+VitePressの構成でFREESERVERのWikiを管理。[Wiki](https://wiki.freeserver.pro) |
 | [FREESERVER Official Site](https://github.com/freeserverproject/officialSite) | デザインは@Alpha9n コーディングは私。[Site](https://freeserver.pro) |
 
 ## Skills
