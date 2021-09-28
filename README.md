@@ -35,7 +35,7 @@
 | HTML                  | 4     | |
 | CSS                   | 4     | |
 | SCSS                  | 3     | まだ入れ子構造しかつかったことにゃい |
-| JavaScrip             | 4     | |
+| JavaScript            | 4     | |
 | TypeScript            | 2     | |
 | Node.js               | 4     | |
 | Vue                   | 4     | |
