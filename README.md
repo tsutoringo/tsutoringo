@@ -67,6 +67,7 @@
 | Git                   | 3     | |
 | GitHub                | 3     | まだまだ使ったコトない機能がある |
 | GitHub Pages          | 3     | まだ使用履歴浅いけど使える      |
+| GitHub Actions        | 3     | まだ使用履歴浅いけど使える      |
 
 ## Buy me a coffee
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T64S5UD)
