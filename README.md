@@ -51,6 +51,10 @@
 | Svelte                | 0     | |
 | Leaflet               | 1     | |
 | Discord.js            | 3     | クラス多すぎ（ |
+| Electron              | 2     | |
+| Realm Database        | 3     | 最新をしてない |
+| D3                    | 2     | |
+| D3 Tree View          | 3     | |
 | Rust                  | 1     | |
 | Java                  | 2     | |
 | Web extension         | 3     | |
