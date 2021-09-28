@@ -52,12 +52,14 @@
 | Leaflet               | 1     | |
 | Discord.js            | 3     | クラス多すぎ（ |
 | Electron              | 2     | |
+| Web extension         | 3     | |
 | Realm Database        | 3     | 最新をしてない |
 | D3                    | 2     | |
 | D3 Tree View          | 3     | |
 | Rust                  | 1     | |
 | Java                  | 2     | |
-| Web extension         | 3     | |
+| Spigot                | 2     | Javaはこのためにやったほぼほぼしてない |
+| Stripe API            | 0     | 今後使うことがあるかもしれない |
 | Cloudflare            | 3     | まだまだ使ったコトない機能がある |
 | Cloudflare Pages      | 3     | まだまだ使ったコトない機能がある |
 | Cloudflare DNS        | 3     | まだまだ使ったコトない機能がある |
@@ -72,6 +74,7 @@
 | GitHub                | 3     | まだまだ使ったコトない機能がある |
 | GitHub Pages          | 3     | まだ使用履歴浅いけど使える      |
 | GitHub Actions        | 3     | まだ使用履歴浅いけど使える      |
+| VS Code               | 3     | ずっと愛用しているがまだ使ったことない機能いっぱいある |
 
 ## Buy me a coffee
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T64S5UD)
