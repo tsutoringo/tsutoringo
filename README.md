@@ -21,5 +21,52 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsutoringo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Self Report
+
+0 = 使用経験無いが興味はある
+1 = 使用したことはあるが全く使えない  
+2 = 使用したことはあるが理解が足りていない、そんなにできない。
+3 = 使用したことがあり自分が困らない程度には出来るがまだ理解がたりていない  
+4 = 使用したことがあり自分が困らない程度にはできある程度理解している  
+5 = 内部構造までほぼ全て理解している
+
+| name                  | point | description |
+| --------------------- | ----- | ----------- |
+| HTML                  | 4     | |
+| CSS                   | 4     | |
+| SCSS                  | 3     | また入れ子構造しかつかったことにゃい |
+| JavaScrip             | 4     | |
+| TypeScript            | 2     | |
+| Node.js               | 4     | |
+| Vue                   | 4     | |
+| Vue 2                 | 3     | |
+| Vue 3                 | 3     | |
+| Vue 3 Composition API | 3     | |
+| Vue Router            | 3     | |
+| Vite                  | 2     | |
+| Vitepress             | 3     | |
+| Vuepress              | 0     | |
+| Element Plus          | 3     | |
+| Reactjs               | 0     | |
+| Svelte                | 0     | |
+| Leaflet               | 1     | |
+| Discord.js            | 3     | クラス多すぎ（ |
+| Rust                  | 1     | |
+| Java                  | 2     | |
+| Web extension         | 3     | |
+| Cloudflare            | 3     | まだまだ使ったコトない機能がある |
+| Cloudflare Pages      | 3     | まだまだ使ったコトない機能がある |
+| Cloudflare DNS        | 3     | まだまだ使ったコトない機能がある |
+| Netlify               | 3     | |
+| Netlify CMS           | 3     | |
+| Firebase              | 3     | まだまだ使ったコトない機能がある |
+| Firebase Functions    | 2     | |
+| Firebase Realtim DB   | 3     | |
+| Firebase Auth         | 3     | |
+| Firebase Web 9        | 3     | |
+| Git                   | 3     | |
+| GitHub                | 3     | まだまだ使ったコトない機能がある |
+| GitHub Pages          | 3     | まだ使用履歴浅いけど使える      |
+
 ## Buy me a coffee
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T64S5UD)
