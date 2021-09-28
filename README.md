@@ -35,9 +35,13 @@
 | HTML                  | 4     | |
 | CSS                   | 4     | |
 | SCSS                  | 3     | まだ入れ子構造しかつかったことにゃい |
+| Web Desing            | 2     | ずっと苦手意識があるしそんなにうまくない |
 | JavaScript            | 4     | |
 | TypeScript            | 2     | |
 | Node.js               | 4     | |
+| Node version manager  | 3     | nvm |
+| npm                   | 3     | |
+| yarn                  | 3     | |
 | Vue                   | 4     | |
 | Vue 2                 | 3     | |
 | Vue 3                 | 3     | |
@@ -52,7 +56,7 @@
 | Leaflet               | 1     | |
 | Discord.js            | 3     | クラス多すぎ（ |
 | Electron              | 2     | |
-| Web extension         | 3     | |
+| Web extension         | 3     | 500人ぐらいが使う拡張機能を作ったことがある |
 | Realm Database        | 3     | 最新をしてない |
 | D3                    | 2     | |
 | D3 Tree View          | 3     | |
