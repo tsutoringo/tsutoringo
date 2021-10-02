@@ -58,7 +58,7 @@
 | Leaflet               | 1     | |
 | Discord.js            | 3     | クラス多すぎ（ |
 | Electron              | 2     | |
-| Web extension         | 3     | 500人ぐらいが使う拡張機能を作ったことがある |
+| Web extension         | 3     | [500人ぐらいが使う拡張機能](https://github.com/nnn-ed-nico-extension/N-yobiko-char-counter)を作ったことがある |
 | Realm Database        | 3     | 最新をしてない |
 | D3                    | 2     | |
 | D3 Tree View          | 3     | |
