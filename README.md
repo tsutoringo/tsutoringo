@@ -56,7 +56,8 @@
 | JSX                   | 0     | |
 | Svelte                | 0     | |
 | Leaflet               | 1     | |
-| Swiper.js             | 1     | |
+| Swiper.js             | 2     | |
+| Swiper/vue            | 2     | 2021 10/5から触り始めた |
 | Discord.js            | 3     | クラス多すぎ（ |
 | Electron              | 2     | |
 | Web extension         | 3     | [500人ぐらいが使う拡張機能](https://github.com/nnn-ed-nico-extension/N-yobiko-char-counter)を作ったことがある |
