@@ -78,6 +78,7 @@
 | Firebase Realtim DB   | 3     | |
 | Firebase Auth         | 3     | |
 | Firebase Web 9        | 3     | |
+| Supabase              | 0     | |
 | Git                   | 3     | |
 | GitHub                | 3     | まだまだ使ったコトない機能がある |
 | GitHub Pages          | 3     | まだ使用履歴浅いけど使える      |
