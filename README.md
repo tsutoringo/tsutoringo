@@ -84,7 +84,7 @@
 | GitHub Pages          | 3     | まだ使用履歴浅いけど使える      |
 | GitHub Actions        | 3     | まだ使用履歴浅いけど使える      |
 | VS Code               | 3     | ずっと愛用しているがまだ使ったことない機能いっぱいある |
-| Drai.io               | 3     | |
+| Draw.io               | 3     | |
 
 ## Buy me a coffee
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T64S5UD)
