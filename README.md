@@ -86,5 +86,5 @@
 | VS Code               | 3     | ずっと愛用しているがまだ使ったことない機能いっぱいある |
 | Draw.io               | 3     | |
 
-## Buy me a coffee
+## Donate with Ko-fi
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T64S5UD)
