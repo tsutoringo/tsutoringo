@@ -23,68 +23,74 @@
 
 ## Self Report
 
-0 = 使用経験無いが興味はある  
-1 = 使用したことはあるが全く使えない  
-2 = 使用したことはあるが理解が足りていない、そんなにできない。  
-3 = 使用したことがあり自分が困らない程度には出来るがまだ理解がたりていない  
-4 = 使用したことがあり自分が困らない程度にはできある程度理解している  
-5 = 内部構造までほぼ全て理解している
+<details>
+  <summary>
+  </summary>
+  0 = 使用経験無いが興味はある  
+  1 = 使用したことはあるが全く使えない  
+  2 = 使用したことはあるが理解が足りていない、そんなにできない。  
+  3 = 使用したことがあり自分が困らない程度には出来るがまだ理解がたりていない  
+  4 = 使用したことがあり自分が困らない程度にはできある程度理解している  
+  5 = 内部構造までほぼ全て理解している
+  
+  | name                  | point | Note |
+  | --------------------- | ----- | ----------- |
+  | やる気                 | -     | めっちゃ変動する |
+  | HTML                  | 4     | |
+  | CSS                   | 4     | |
+  | SCSS                  | 3     | まだ入れ子構造しかつかったことにゃい |
+  | Web Desing            | 2     | ずっと苦手意識があるしそんなにうまくない |
+  | JavaScript            | 4     | |
+  | TypeScript            | 2     | |
+  | Node.js               | 4     | |
+  | Node version manager  | 3     | nvm |
+  | npm                   | 3     | |
+  | yarn                  | 3     | |
+  | Vue                   | 4     | |
+  | Vue 2                 | 3     | |
+  | Vue 3                 | 3     | |
+  | Vue 3 Composition API | 3     | |
+  | Vue Router            | 3     | |
+  | Vite                  | 2     | |
+  | Vitepress             | 3     | |
+  | Vuepress              | 0     | |
+  | Element Plus          | 3     | |
+  | Reactjs               | 0     | |
+  | JSX                   | 0     | |
+  | Svelte                | 0     | |
+  | Leaflet               | 1     | |
+  | Swiper.js             | 2     | |
+  | Swiper/vue            | 2     | 2021 10/5から触り始めた |
+  | Discord.js            | 3     | クラス多すぎ（ |
+  | Electron              | 2     | |
+  | Web extension         | 3     | [500人ぐらいが使う拡張機能](https://github.com/nnn-ed-nico-extension/N-yobiko-char-counter)を作ったことがある |
+  | Realm Database        | 3     | 最新をしてない |
+  | D3                    | 2     | |
+  | D3 Tree View          | 3     | |
+  | Rust                  | 1     | |
+  | Java                  | 2     | |
+  | Spigot                | 2     | Javaはこのためにやったほぼほぼしてない |
+  | Stripe API            | 0     | 今後使うことがあるかもしれない |
+  | Cloudflare            | 3     | まだまだ使ったコトない機能がある |
+  | Cloudflare Pages      | 3     | まだまだ使ったコトない機能がある |
+  | Cloudflare DNS        | 3     | まだまだ使ったコトない機能がある |
+  | Netlify               | 3     | |
+  | Netlify CMS           | 3     | |
+  | Firebase              | 3     | まだまだ使ったコトない機能がある |
+  | Firebase Functions    | 2     | |
+  | Firebase Realtim DB   | 3     | |
+  | Firebase Auth         | 3     | |
+  | Firebase Web 9        | 3     | |
+  | Supabase              | 0     | |
+  | Git                   | 3     | |
+  | GitHub                | 3     | まだまだ使ったコトない機能がある |
+  | GitHub Pages          | 3     | まだ使用履歴浅いけど使える      |
+  | GitHub Actions        | 3     | まだ使用履歴浅いけど使える      |
+  | VS Code               | 3     | ずっと愛用しているがまだ使ったことない機能いっぱいある |
+  | Draw.io               | 3     | |
+  
+</details>
 
-| name                  | point | Note |
-| --------------------- | ----- | ----------- |
-| やる気                 | -     | めっちゃ変動する |
-| HTML                  | 4     | |
-| CSS                   | 4     | |
-| SCSS                  | 3     | まだ入れ子構造しかつかったことにゃい |
-| Web Desing            | 2     | ずっと苦手意識があるしそんなにうまくない |
-| JavaScript            | 4     | |
-| TypeScript            | 2     | |
-| Node.js               | 4     | |
-| Node version manager  | 3     | nvm |
-| npm                   | 3     | |
-| yarn                  | 3     | |
-| Vue                   | 4     | |
-| Vue 2                 | 3     | |
-| Vue 3                 | 3     | |
-| Vue 3 Composition API | 3     | |
-| Vue Router            | 3     | |
-| Vite                  | 2     | |
-| Vitepress             | 3     | |
-| Vuepress              | 0     | |
-| Element Plus          | 3     | |
-| Reactjs               | 0     | |
-| JSX                   | 0     | |
-| Svelte                | 0     | |
-| Leaflet               | 1     | |
-| Swiper.js             | 2     | |
-| Swiper/vue            | 2     | 2021 10/5から触り始めた |
-| Discord.js            | 3     | クラス多すぎ（ |
-| Electron              | 2     | |
-| Web extension         | 3     | [500人ぐらいが使う拡張機能](https://github.com/nnn-ed-nico-extension/N-yobiko-char-counter)を作ったことがある |
-| Realm Database        | 3     | 最新をしてない |
-| D3                    | 2     | |
-| D3 Tree View          | 3     | |
-| Rust                  | 1     | |
-| Java                  | 2     | |
-| Spigot                | 2     | Javaはこのためにやったほぼほぼしてない |
-| Stripe API            | 0     | 今後使うことがあるかもしれない |
-| Cloudflare            | 3     | まだまだ使ったコトない機能がある |
-| Cloudflare Pages      | 3     | まだまだ使ったコトない機能がある |
-| Cloudflare DNS        | 3     | まだまだ使ったコトない機能がある |
-| Netlify               | 3     | |
-| Netlify CMS           | 3     | |
-| Firebase              | 3     | まだまだ使ったコトない機能がある |
-| Firebase Functions    | 2     | |
-| Firebase Realtim DB   | 3     | |
-| Firebase Auth         | 3     | |
-| Firebase Web 9        | 3     | |
-| Supabase              | 0     | |
-| Git                   | 3     | |
-| GitHub                | 3     | まだまだ使ったコトない機能がある |
-| GitHub Pages          | 3     | まだ使用履歴浅いけど使える      |
-| GitHub Actions        | 3     | まだ使用履歴浅いけど使える      |
-| VS Code               | 3     | ずっと愛用しているがまだ使ったことない機能いっぱいある |
-| Draw.io               | 3     | |
 
 ## Donate with Ko-fi
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T64S5UD)
