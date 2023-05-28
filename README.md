@@ -41,7 +41,7 @@
   | SCSS                  | 3     | まだ入れ子構造しかつかったことにゃい |
   | Web Desing            | 2     | ずっと苦手意識があるしそんなにうまくない |
   | JavaScript            | 4     | |
-  | TypeScript            | 2     | |
+  | TypeScript            | 4     | |
   | Node.js               | 4     | |
   | Node version manager  | 3     | nvm |
   | npm                   | 3     | |
