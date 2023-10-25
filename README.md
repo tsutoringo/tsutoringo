@@ -1,5 +1,7 @@
 # 🐈にゃーん
 
+[![wakatime](https://wakatime.com/badge/user/56c0832e-9443-4721-bd23-ad0416a324d1.svg)](https://wakatime.com/@56c0832e-9443-4721-bd23-ad0416a324d1)
+
 ## Works
 
 ### Chrome extensions
