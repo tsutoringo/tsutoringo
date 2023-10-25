@@ -54,7 +54,7 @@
   | Vue 3                 | 3     | |
   | Vue 3 Composition API | 3     | |
   | Vue Router            | 3     | |
-  | Vite                  | 2     | |
+  | Vite                  | 3     | |
   | Vitepress             | 3     | |
   | Vuepress              | 0     | |
   | Element Plus          | 3     | |
@@ -70,7 +70,7 @@
   | Realm Database        | 3     | 最新をしてない |
   | D3                    | 2     | |
   | D3 Tree View          | 3     | |
-  | Rust                  | 1     | |
+  | Rust                  | 2     | |
   | Java                  | 2     | |
   | Spigot                | 2     | Javaはこのためにやったほぼほぼしてない |
   | Stripe API            | 0     | 今後使うことがあるかもしれない |
